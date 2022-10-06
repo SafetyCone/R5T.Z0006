@@ -7,7 +7,7 @@ namespace R5T.Z0006
 	{
 		#region Infrastructure
 
-	    public static NamespacedTypeNames Instance { get; } = new();
+	    public static INamespacedTypeNames Instance { get; } = new NamespacedTypeNames();
 
 	    private NamespacedTypeNames()
 	    {
