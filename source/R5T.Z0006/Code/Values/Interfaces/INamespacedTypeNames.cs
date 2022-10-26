@@ -24,6 +24,7 @@ namespace R5T.Z0006
 		public string TriesMarkerAttribute => "R5T.T0141.TriesMarkerAttribute";
 		public string ServiceDefinitionMarkerAttribute => "R5T.T0064.ServiceDefinitionMarkerAttribute";
 		public string ServiceImplementationMarkerAttribute => "R5T.T0064.ServiceImplementationMarkerAttribute";
+		public string StrongTypeMarkerAttribute => "R5T.T0150.StrongTypeMarkerAttribute";
 		public string TypeMarkerAttribute => "R5T.T0142.TypeMarkerAttribute";
 		public string UtilityTypeMarkerAttribute => "R5T.T0142.UtilityTypeMarkerAttribute";
 		public string ValuesMarkerAttribute => "R5T.T0131.ValuesMarkerAttribute";
@@ -37,6 +38,7 @@ namespace R5T.Z0006
 		public string DraftDataTypeMarkerAttribute => "R5T.T0142.DraftDataTypeMarkerAttribute";
 		public string DraftServiceDefinitionMarkerAttribute => "R5T.T0064.DraftServiceDefinitionMarkerAttribute";
 		public string DraftServiceImplementationMarkerAttribute => "R5T.T0064.DraftServiceImplementationMarkerAttribute";
+		public string DraftStrongTypeMarkerAttribute => "R5T.T0150.DraftStrongTypeMarkerAttribute";
 		public string DraftTypeMarkerAttribute => "R5T.T0142.DraftTypeMarkerAttribute";
 		public string DraftUtilityTypeMarkerAttribute => "R5T.T0142.DraftUtilityTypeMarkerAttribute";
 		public string DraftValuesMarkerAttribute => "R5T.T0131.DraftValuesMarkerAttribute";
