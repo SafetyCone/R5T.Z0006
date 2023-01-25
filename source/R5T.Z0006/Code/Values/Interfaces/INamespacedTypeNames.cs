@@ -21,10 +21,11 @@ namespace R5T.Z0006
 		public string ExperimentsMarkerAttribute => "R5T.T0141.ExperimentsMarkerAttribute";
 		public string ExplorationsMarkerAttribute => "R5T.T0141.ExplorationsMarkerAttribute";
 		public string FunctionalityMarkerAttribute => "R5T.T0132.FunctionalityMarkerAttribute";
-		public string TriesMarkerAttribute => "R5T.T0141.TriesMarkerAttribute";
-		public string ServiceDefinitionMarkerAttribute => "R5T.T0064.ServiceDefinitionMarkerAttribute";
+		public string RazorComponentMarkerAttribute => "R5T.T0154.RazorComponentMarkerAttribute";
+        public string ServiceDefinitionMarkerAttribute => "R5T.T0064.ServiceDefinitionMarkerAttribute";
 		public string ServiceImplementationMarkerAttribute => "R5T.T0064.ServiceImplementationMarkerAttribute";
 		public string StrongTypeMarkerAttribute => "R5T.T0150.StrongTypeMarkerAttribute";
+		public string TriesMarkerAttribute => "R5T.T0141.TriesMarkerAttribute";
 		public string TypeMarkerAttribute => "R5T.T0142.TypeMarkerAttribute";
 		public string UtilityTypeMarkerAttribute => "R5T.T0142.UtilityTypeMarkerAttribute";
 		public string ValuesMarkerAttribute => "R5T.T0131.ValuesMarkerAttribute";
@@ -36,7 +37,8 @@ namespace R5T.Z0006
 		public string DraftExperimentsMarkerAttribute => "R5T.T0141.DraftExperimentsMarkerAttribute";
 		public string DraftExplorationsMarkerAttribute => "R5T.T0141.DraftExplorationsMarkerAttribute";
 		public string DraftDataTypeMarkerAttribute => "R5T.T0142.DraftDataTypeMarkerAttribute";
-		public string DraftServiceDefinitionMarkerAttribute => "R5T.T0064.DraftServiceDefinitionMarkerAttribute";
+		public string DraftRazorComponentMarkerAttribute => "R5T.T0154.DraftRazorComponentMarkerAttribute";
+        public string DraftServiceDefinitionMarkerAttribute => "R5T.T0064.DraftServiceDefinitionMarkerAttribute";
 		public string DraftServiceImplementationMarkerAttribute => "R5T.T0064.DraftServiceImplementationMarkerAttribute";
 		public string DraftStrongTypeMarkerAttribute => "R5T.T0150.DraftStrongTypeMarkerAttribute";
 		public string DraftTypeMarkerAttribute => "R5T.T0142.DraftTypeMarkerAttribute";
